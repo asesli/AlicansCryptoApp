@@ -4,12 +4,16 @@
 
 ![image](https://github.com/asesli/AlicansCryptoApp/blob/main/screenshot2.jpg)
 
-
-
 This is a test project to apply LSTM network to a cryptocoin chart to predict the forecast of the next day. Along with being a test project, this app, in the end, will do all major functions of binace.
 
-##Currently still in the works:
+Requirements:
+- Python 3.8
+- PyQt5 + QWebEngineView
+- binance-connector
+- icons from https://codeload.github.com/spothq/cryptocurrency-icons/zip/master
 
+
+Currently still in the works:
 - BUY/SELL buttons will need to be linked up.
 - BUY/SELL price/percentage slider and precalcutlation
 - Applying a sell date or a sell decision algorithm to already owned items.
