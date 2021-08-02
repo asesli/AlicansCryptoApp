@@ -1,0 +1,7 @@
+MY_TRADES = [
+	'BTCUSDT',
+	'ETHUSDT',
+	'BNBUSDT',
+	'WINUSDT',
+	'SHIBUSDT',
+	'C98USDT']
